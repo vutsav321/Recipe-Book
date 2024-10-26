@@ -45,12 +45,13 @@ bash<br>
 -Browse History: Check recipes you've previously viewed in the history section.<br>
 ## Screenshots 📸
 <img src="https://github.com/user-attachments/assets/1c4e9704-9010-4ff6-b4ed-f0e749e7c85e" alt="Screenshot" width="300"/>
-![Screenshot_1729953445](https://github.com/user-attachments/assets/d99526b1-1a2e-48a9-b1f4-7499bb5d0a37)
-![Screenshot_1729953548](https://github.com/user-attachments/assets/cff7892d-ecba-43fd-8d48-993810e39c45)
-![Screenshot_1729953535](https://github.com/user-attachments/assets/eb3457de-281a-457d-8c59-4793139f3aa4)
-![Screenshot_1729953666](https://github.com/user-attachments/assets/b71047ef-e186-4757-b343-7027d2ac59c6)
-![Screenshot_1729953597](https://github.com/user-attachments/assets/ab8a95de-ba6a-4aba-95b0-a69f4eebf51f)
-![Screenshot_1729953768](https://github.com/user-attachments/assets/569c191b-325a-4941-98b8-603ccf15262d)
+<img src="https://github.com/user-attachments/assets/d99526b1-1a2e-48a9-b1f4-7499bb5d0a37" alt="Screenshot" width="300"/>
+<img src="https://github.com/user-attachments/assets/cff7892d-ecba-43fd-8d48-993810e39c45" alt="Screenshot" width="300"/>
+<img src="https://github.com/user-attachments/assets/eb22976c-2d9f-42d6-b76f-d6570d3a6fb9" alt="Screenshot" width="300"/>
+<img src="https://github.com/user-attachments/assets/eb032f49-998a-4d6a-94a1-e1f730875db3" alt="Screenshot" width="300"/>
+<img src="https://github.com/user-attachments/assets/bdf0a090-6f99-4fd6-9183-98fc123fd958" alt="Screenshot" width="300"/>
+<img src="https://github.com/user-attachments/assets/2d8263a5-a94f-4d6c-9492-22f301af3a16" alt="Screenshot" width="300"/>
+<img src="https://github.com/user-attachments/assets/e2299886-a708-40ab-9b31-86658dd94d96)" alt="Screenshot" width="300"/>
 
 
 ## [Edamam API 🔗](https://www.edamam.com/)
