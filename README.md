@@ -15,37 +15,42 @@ Shared Preferences: Stores favorites and history locally using the shared_prefer
 Clone the repository:
 
 bash
-Copy code
-git clone https://github.com/yourusername/recipe-book.git
-cd recipe-book
-Install dependencies:
+-git clone https://github.com/vutsav321/Recipe-Book.git
+-cd recipe-book
+-Install dependencies:
 
 bash
-Copy code
-flutter pub get
-Configure API credentials:
+-flutter pub get
+-Configure API credentials:
 
 Create a .env file in the root of the project and add your Edamam API credentials:
 env
-Copy code
-EDAMAM_APP_ID=your_app_id
-EDAMAM_APP_KEY=your_app_key
+-EDAMAM_APP_ID=your_app_id
+-EDAMAM_APP_KEY=your_app_key
 Run the app:
 
 bash
-Copy code
-flutter run
-Dependencies 🛠️
-http: For making API requests to the Edamam API.
-shared_preferences: For storing favorite and previously viewed recipes.
-flutter_dotenv: For managing API credentials in a secure way.
+-flutter run
+## Dependencies 🛠️
+-http: For making API requests to the Edamam API.
+-shared_preferences: For storing favorite and previously viewed recipes.
+-get: For state management.
+-webview: For embeding the Android's WebView within the Flutter app.
+
 ## Usage 🧑‍🍳
-Search Recipes:  Select a cuisine, meal type, or dish type to fetch recipes from the Edamam API.
-View Recipe Details: Tap on a recipe to see detailed information, including ingredients and cooking instructions.
-Save Favorites: Mark recipes you like as favorites and access them anytime.
-Browse History: Check recipes you've previously viewed in the history section.
+-Search Recipes:  Select a cuisine, meal type, or dish type to fetch recipes from the Edamam API.
+-View Recipe Details: Tap on a recipe to see detailed information, including ingredients and cooking instructions.
+-Save Favorites: Mark recipes you like as favorites and access them anytime.
+-Browse History: Check recipes you've previously viewed in the history section.
 ## Screenshots 📸
-(Add screenshots of the app here to showcase the user interface)
+![Screenshot_1729953427](https://github.com/user-attachments/assets/1c4e9704-9010-4ff6-b4ed-f0e749e7c85e)
+![Screenshot_1729953445](https://github.com/user-attachments/assets/d99526b1-1a2e-48a9-b1f4-7499bb5d0a37)
+![Screenshot_1729953548](https://github.com/user-attachments/assets/cff7892d-ecba-43fd-8d48-993810e39c45)
+![Screenshot_1729953535](https://github.com/user-attachments/assets/eb3457de-281a-457d-8c59-4793139f3aa4)
+![Screenshot_1729953666](https://github.com/user-attachments/assets/b71047ef-e186-4757-b343-7027d2ac59c6)
+![Screenshot_1729953597](https://github.com/user-attachments/assets/ab8a95de-ba6a-4aba-95b0-a69f4eebf51f)
+![Screenshot_1729953768](https://github.com/user-attachments/assets/569c191b-325a-4941-98b8-603ccf15262d)
+
 
 ## [Edamam API 🔗](https://www.edamam.com/)
 The Recipe Book app uses the Edamam API to fetch recipe data. Be sure to read their documentation and terms of use to understand the data usage limits and guidelines.
